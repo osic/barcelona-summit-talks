@@ -80,6 +80,20 @@ _charts since infra has been deployed (should probably grab from cloud1)_
     * What steps were used to troubleshoot  
     * What was the remediation (permanent or not)  
 
+## Credits  
+* OpenStack Infra Team Members
+  * Paul Belanger (pabelanger)
+  * Jeremy Stanley (fungi)  
+* OSIC
+  * Isaac Gonzalez - Intel (izaakk)  
+  * Melvin Hillsman - Rackspace (mrhillsman)  
+  * Ala Raddaoui - Intel (raddaoui)  
+  * Kevin Carter - Rackspace (cloudnull)  
+  * James Denton - Rackspace (jamesdenton)  
+  * Michal Jazbertski - Intel (inc0)  
+  * Dale Bracey - Rackspace (irtermite)  
+  * Jonathan Almaleh - Rackspace (sup)  
+
 ## Q&A
 _we will not have Michal available to provide a lot of the technical answers_
 * Reach out via contact details provided here
