@@ -47,7 +47,7 @@ If you did not want to setup infra yourself and run it yourself, what are some s
 ### When should you contact infra team  
 _what is the stop point where one would need to have infra come in should they have resources to offer_  
 
-## What We Deployed - 10 minutes  
+## What We Deployed - 5 minutes  
 ### Breakdown of environment  
 * Cloud1  
   * Long standing  
@@ -59,7 +59,7 @@ _what is the stop point where one would need to have infra come in should they h
 
 _charts since infra has been deployed (should probably grab from cloud1)_  
 
-## Issues and Remediations (Conclusion) - 5 minutes  
+## Issues and Remediations (Conclusion) - 10 minutes  
 1. IPv6  
     * What was the issue  
     * How was issue determined to actually be an issue  
