@@ -90,7 +90,7 @@ _charts since infra has been deployed (should probably grab from cloud1)_
   * Ala Raddaoui - Intel (raddaoui)  
   * Kevin Carter - Rackspace (cloudnull)  
   * James Denton - Rackspace (jamesdenton)  
-  * Michal Jazbertski - Intel (inc0)  
+  * Michal Jastrzebski - Intel (inc0)  
   * Dale Bracey - Rackspace (irtermite)  
   * Jonathan Almaleh - Rackspace (sup)  
 
