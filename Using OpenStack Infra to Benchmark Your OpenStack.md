@@ -5,6 +5,7 @@ Using OpenStack Infra to Benchmark Your OpenStack
 Ops Tools  
 OpenStack Summit 2016 - Barcelona  
 October 24-28  
+Original Brainstorm - https://etherpad.openstack.org/p/infra-session-barcelona  
 
 # Abstract  
 
