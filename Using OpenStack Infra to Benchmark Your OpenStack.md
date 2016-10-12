@@ -74,12 +74,22 @@ _charts since infra has been deployed (should probably grab from cloud1)_
     * What was the issue  
     * How was issue determined to actually be an issue  
     * What steps were used to troubleshoot  
-    * What was the remediation (permanent or not)  
+    * What was the remediation (permanent or not) 
 4. probably more stuff here, check with Ala (general framing for each item)  
     * What was the issue  
     * How was issue determined to actually be an issue  
     * What steps were used to troubleshoot  
-    * What was the remediation (permanent or not)  
+    * What was the remediation (permanent or not) 
+5. Domain name for your cloud (horizon)
+    * What was the issue
+    * How was issue determined to actually be an issue
+    * What steps were used to troubleshoot
+    * What was the remediation (permanent or not)
+6. secure OpenStack endpoints (https vs http)
+    * What was the issue
+    * How was issue determined to actually be an issue
+    * What steps were used to troubleshoot
+    * What was the remediation (permanent or not)
 
 ## Credits  
 * OpenStack Infra Team Members
